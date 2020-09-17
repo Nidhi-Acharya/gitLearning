@@ -18,3 +18,7 @@ for i in var:
 print(var3)
 
 print("spider man")
+
+
+
+anbdvyawgdvx jhxcaiwdhq nxciahwudn hx8iuyqwuih hadxuywqu
